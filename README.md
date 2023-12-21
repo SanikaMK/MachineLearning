@@ -1,2 +1,2 @@
 # MachineLearning
-All the Predictive Modelling work is available in this repository. 
+All the Predictive Modeling work is available in this repository. 
